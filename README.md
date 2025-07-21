@@ -17,9 +17,11 @@
 
 ## 🛠 기술 스택
 
-| 프론트엔드 | Next.js, Tailwind CSS |
-| 백엔드 | FastAPI, Python, OpenCV, scikit-learn |
-| 배포 | Vercel (프론트), Render or Railway (백엔드) |
+| 프론트엔드 | React | 사용자 이미지 업로드 및 결과 표시 |
+| 백엔드 | Spring Boot | API 서버, 프론트와 ML 서버 사이 연결 |
+| 머신러닝 | Python (FastAPI) | OpenCV + KMeans로 색상 추출 및 추천 |
+| 이미지 분석 | OpenCV, scikit-learn | 색상 추출 알고리즘 구현 |
+| 배포 예정 | Vercel, EC2 or Render | 프론트/백엔드 배포 (추후 추가) |
 
 ---
 
